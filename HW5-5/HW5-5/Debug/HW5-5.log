@@ -1,0 +1,4 @@
+﻿  HW5-5.cpp
+c:\users\piano\desktop\c++ project\hw5-5\hw5-5\hw5-5.cpp(62): warning C4715: 'findLowest': not all control paths return a value
+c:\users\piano\desktop\c++ project\hw5-5\hw5-5\hw5-5.cpp(76): warning C4715: 'findHighest': not all control paths return a value
+  HW5-5.vcxproj -> C:\Users\piano\Desktop\C++ Project\HW5-5\Debug\HW5-5.exe

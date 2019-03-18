@@ -1,0 +1,3 @@
+﻿  Quiz2.cpp
+c:\users\piano\desktop\c++ project\quiz2\quiz2\quiz2.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Quiz2.vcxproj -> C:\Users\piano\Desktop\C++ Project\Quiz2\Debug\Quiz2.exe
